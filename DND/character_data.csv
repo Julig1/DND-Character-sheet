@@ -1,0 +1,56 @@
+Strength,8
+Dexterity,15
+Constitution,15
+Intelligence,10
+Wisdom,10
+Charisma,16
+Level,3
+EXP,1400
+HP,29
+Temp HP,0
+AC,11
+Speed,30
+Spell Points,1
+Actions,2
+Sorcery Points,6
+Max EXP,2700
+Max HP,32
+Max Spell Points,26
+Max Sorcery Points,6
+Max Temp HP,0
+Max AC,11
+Info,Race,Elf (High)
+Info,Class,Sorcerer
+Info,Background,Charlatan
+Info,Armor Proficiencies,None
+Info,Weapon Proficiencies,"longsword, shortsword, shortbow, longbow, daggers, darts, slings, quarterstaffs, light crossbows"
+Info,Tool Proficiencies,"Disguise Kit, Forgery Kit"
+Info,Saving Throws,"Constitution, Charisma"
+Info,Skills,"Perception, Constitution,  Arcana, Intimidation, Performance, Persuasion, Insight, Deception"
+Info,Spellcasting Ability,Charisma
+Info,Spell Save DC,8 + Proficiency + CHA mod
+Info,Spell Attack Bonus,Proficiency + CHA mod
+Info,Features,
+Info,Languages,"Common, Elvish, Dwarvish"
+0,Light
+0,Mage Hand
+0,Minor Illusion
+0,Prestidigitation
+1,Arms of Hadar
+1,Calm Emotions
+1,Detect Magic
+1,Detect Thoughts
+1,Dissonant Whispers
+1,Magic Missile
+1,Mind Sliver
+1,Shield
+2,Enhance Ability
+2,Scorching Ray
+Inventory,Dagger,1,True
+Inventory,Gold,2,False
+Inventory,Rations,3,False
+Inventory,Potion of Healing,1,False
+Inventory,Light Crossbow,1,False
+Inventory,Healer's Kit,2,False
+Inventory,Silvered Ammunition,20,False
+Inventory,Holy Water,2,False
