@@ -41,4 +41,6 @@ The application provides a structured interface for real-time character sheet ma
   - data.json
 
 3. Run the application:
+
+   ```bash
    python dnd_tracker.py
