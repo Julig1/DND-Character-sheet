@@ -20,8 +20,9 @@ The application provides a structured interface for real-time character sheet ma
 
 ### Prerequisites
 
-- Python 3.7 or higher
-- Tkinter (standard with most Python distributions)
+- Python 3.10.0 or higher
+- Platform: Windows
+- Tkinter version: 8.6
 
 ### Setup
 
